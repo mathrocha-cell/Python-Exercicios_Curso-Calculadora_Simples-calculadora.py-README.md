@@ -1,1 +1,5 @@
-# Python-Exercicios_Curso-Calculadora_Simples-calculadora.py-README.md
+Python/
+└── Exercicios_Curso/
+    └── Calculadora_Simples/
+        ├── calculadora.py
+        └── README.md
